@@ -1,0 +1,6 @@
+{
+  "name": "Encontro Simples",
+  "description": "Um site de encontros simples focado em perfil de usuário e chat individual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

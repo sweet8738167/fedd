@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "a15c475d-10f7-46b1-b0a1-fdae9fc3bcf0",
+      "username": "sweet",
+      "fullName": "Sweet daalbertina",
+      "email": "renildorafael059@gmail.com",
+      "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&auto=format&fit=crop&q=80",
+      "bio": "Nova conta no Encontro Simples!",
+      "age": 21,
+      "gender": "Masculino",
+      "location": "Lichinga",
+      "interests": [],
+      "createdAt": "2026-05-21T06:59:45.473Z",
+      "passwordHash": "9c6681df709981a0ee793e28b9ab111e3e0d7711da815d748aa0f937ed5a9e1e17623cb9c2aeb009134343e0d711be2863cd11d53c8229daed49a45614bbaff5",
+      "passwordSalt": "d3e8f3f03c3c75ce63339d1ab279b52e",
+      "relationshipGoal": "Conexão Casual",
+      "zodiacSign": "Áries",
+      "occupation": "pd"
+    }
+  ],
+  "messages": []
+}
